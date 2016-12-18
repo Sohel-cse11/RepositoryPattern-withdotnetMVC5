@@ -1,7 +1,8 @@
-This project is developed by using 
-1. ASP.NET MVC 5
-2. Entity Framework 6.1.3
-3. Design Pattern : Repository Pattern 
+ #This project is developed by using 
+ 
+    1. ASP.NET MVC 5
+    2. Entity Framework 6.1.3
+    3. Design Pattern : Repository Pattern 
 
 # Installation instructions
 
