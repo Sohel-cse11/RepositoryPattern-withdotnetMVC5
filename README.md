@@ -1,4 +1,4 @@
- #This project is developed by using 
+ # This project is developed by using 
  
     1. ASP.NET MVC 5
     2. Entity Framework 6.1.3
@@ -16,6 +16,9 @@
     Run the application
     
 # OR
-   by using SQl Server Management Studio 
-   import database from Databas file/Person.bacpac
+   by using SQL Server Management Studio 
+   import database from Databas/PersonDB.bacpac
    Run the  application
+
+# About Repository Design Pattern 
+  https://msdn.microsoft.com/en-us/library/ff649690.aspx
