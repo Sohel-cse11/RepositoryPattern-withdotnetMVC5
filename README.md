@@ -1,3 +1,4 @@
+ 
  # This project is developed by using 
  
     1. ASP.NET MVC 5
@@ -11,6 +12,7 @@
     Change the connection strings inside the Web.config accoarding to your development environment
     Open Package Manager Console
     run the following commands
+        enable-migrations
         add-migration "initial"
         update-database -verbose
     Run the application
