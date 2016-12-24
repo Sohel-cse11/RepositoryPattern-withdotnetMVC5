@@ -19,6 +19,7 @@
 # OR
    by using SQL Server Management Studio 
    import database from Databas/PersonDB.bacpac
+   
    Run the  application
 
 # About Repository Design Pattern 
