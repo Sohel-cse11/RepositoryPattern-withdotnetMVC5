@@ -1,5 +1,4 @@
- 
- # This project is developed by using 
+# This project is developed by using 
  
     1. ASP.NET MVC 5
     2. Entity Framework 6.1.3
